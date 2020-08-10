@@ -1,11 +1,11 @@
 # Site settings
 author: Alex Sanchez
-title: 
+title: Coffee Thoughts
 header-img: img/home-bg.png
 email: alexanderclaysanchez@gmail.com
 copyright_name: Alex Sanchez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Morning reflections on my journey, over a cup of coffee.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: alexcoldbrew
 github_username:  alexcoldbrew
